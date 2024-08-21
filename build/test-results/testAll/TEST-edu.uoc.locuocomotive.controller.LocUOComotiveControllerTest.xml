@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-06-24T17:05:06" hostname="LAPTOP-HG5LSK0Q" time="0.828">
+  <properties/>
+  <testcase name="Basic - addPassenger" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.121"/>
+  <testcase name="Basic - addStation" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.012"/>
+  <testcase name="Basic - addTrain" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.029"/>
+  <testcase name="Basic - getSeatTypes" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.019"/>
+  <testcase name="Advanced - addRoute" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.04"/>
+  <testcase name="Advanced - createTicket" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.245"/>
+  <testcase name="Advanced - buyTicket" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.201"/>
+  <testcase name="Special - getRoutesByStation" classname="edu.uoc.locuocomotive.controller.LocUOComotiveControllerTest" time="0.081"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
